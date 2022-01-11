@@ -11,7 +11,7 @@
 int main()
 
 {
-   /* char i, j;
+    char i, j;
 
     for (i=0;i<10;i++)
     {
@@ -20,8 +20,7 @@ int main()
     		printf("%d  ",j);
     	}
     	printf("\n");
-    }*/
-printf("%x",-1<<4);
+    }
 
 	return 0;
 }
