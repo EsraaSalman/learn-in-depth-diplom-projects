@@ -25,7 +25,7 @@ int main( void )
     }
 	/*Displaying the string after reverse*/
 	printf("Reverse of the string is : ");
-    while(ptr!=str+1)
+    while(ptr!=str-1)
     {
     	ptr--;
     	printf("%c",*ptr);
